@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="auto_file_pack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/auto_file_pack_jar</output-path>
+    <root id="archive" name="auto_file_pack.jar">
+      <element id="module-output" name="auto_file_pack" />
+    </root>
+  </artifact>
+</component>
